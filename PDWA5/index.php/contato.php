@@ -5,7 +5,7 @@
 <title>SOBRE</title>
 </head>
 <?php
-include "css.php";
+//include "css.php";
 ?>
 <body>
 
@@ -15,7 +15,7 @@ include "css.php";
 		
 		
 <?php
-include "menu.php";
+//include "menu.php";
 ?>
 		
 		
@@ -64,7 +64,7 @@ include "menu.php";
         </form>		
 	<center>
         <?php
-        include "conexao/conexao.php";
+        include "../conexao/conexao.php";
         ?>
 	</center>
 		</div><!--conteudo-->
